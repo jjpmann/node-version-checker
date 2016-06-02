@@ -1,6 +1,6 @@
 {
   "name": "@jjpmann/node-version-checker",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Check node version against required versions.",
   "license": "MIT",
   "repository": {
