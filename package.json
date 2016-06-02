@@ -1,25 +1,25 @@
 {
-  "name": "@jjpmann/node-version-checker",
-  "version": "0.0.2",
-  "description": "Check node version against required versions.",
-  "license": "MIT",
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/jjpmann/node-version-checker.git"
-  },
-  "author": "Jerry Price <jjpmann@gmail.com> (https://github.com/jjpmann)",
-  "engines": {
-    "node": ">=0.10.0"
-  },
-  "files": [
-    "index.js"
-  ],
-  "bugs": {
-    "url": "https://github.com/jjpmann/node-version-checker/issues"
-  },
-  "homepage": "https://github.com/jjpmann/node-version-checker#readme",
-  "main": "index.js",
-  "keywords": [
-    "node version checker", "nvc"
-  ]
+    "name": "@jjpmann/node-version-checker",
+    "version": "0.0.2",
+    "description": "Check node version against required versions.",
+    "license": "MIT",
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/jjpmann/node-version-checker.git"
+    },
+    "author": "Jerry Price <jjpmann@gmail.com> (https://github.com/jjpmann)",
+    "engines": {
+        "node": ">=0.10.0"
+    },
+    "files": [
+        "index.js"
+    ],
+    "bugs": {
+        "url": "https://github.com/jjpmann/node-version-checker/issues"
+    },
+    "homepage": "https://github.com/jjpmann/node-version-checker#readme",
+    "main": "index.js",
+    "keywords": [
+        "node version checker", "nvc"
+    ]
 }
